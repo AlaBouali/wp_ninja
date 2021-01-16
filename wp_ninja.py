@@ -139,7 +139,7 @@ if bruteforce==True:
  else:
   print("[-] Target not vulnerable to xml-rpc bruteforce")
 
-if bruteforce==True:
+if multi_bruteforce==True:
  if bane.wp_xmlrpc_mass_bruteforce(url,path=xmlrcp_path,proxy=proxy,user_agent=user_agent,cookie=cookie,timeout=timeout)==True:
   print("[+] Target vulnerable to xml-rpc multi-bruteforce")
  else:
