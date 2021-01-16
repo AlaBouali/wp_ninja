@@ -1,6 +1,6 @@
 # wp_ninja
 This a simple tool to fully scan your WordPress site (themes, plugins, configurations...).
-<br><br>It provides:
+# What benefits I can get by using it?
 <ul>
   <li>Full Plugins and Themes scan which prides you with links to potential vulnerabilities in it.</li>
   <li>Full xmlrpc exploits check.</li>
