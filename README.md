@@ -27,6 +27,8 @@ This a simple tool to fully scan your WordPress site (themes, plugins, configura
 </pre></div>
 <div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">python wp_ninja.py -u http://www.exemple.com -t 14 -ua "user agent string" -c "cookie string" -p "127.0.0.1:8080
 </pre></div>
+<div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">python wp_ninja.py -d general -d xmlrpc
+</pre></div>
 
 # Note:
 
