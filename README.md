@@ -13,5 +13,5 @@ This a simple tool to fully scan your WordPress site (themes, plugins, configura
   <li>Configurable Timeout.</li>
   <li>Disabling any undesirable scans.</li>
 </ul>
-# P.S:
+# Note :
 <br>If you are using Windows OS, please install <a href="https://nodejs.org/en/download/">NodeJS</a> on your computer.
