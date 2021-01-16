@@ -6,10 +6,10 @@ This a simple tool to fully scan your WordPress site (themes, plugins, configura
   <li>Full xmlrpc exploits check.</li>
   <li>Users enumeration.</li>
   <li>Users extraction from REST-API.</li>
-  <li>Set your own User-Agent.</li>
-  <li>Set your own Cookie.</li>
-  <li>Set your own HTTP proxy.</li>
-  <li>Set xmlrpc's path.</li>
+  <li>Setting your own User-Agent.</li>
+  <li>Setting your own Cookie.</li>
+  <li>Setting your own HTTP proxy.</li>
+  <li>Setting xmlrpc's path.</li>
   <li>Configurable Timeout.</li>
-  <li>Disable any undesirable scans.</li>
+  <li>Disabling any undesirable scans.</li>
 </ul>
