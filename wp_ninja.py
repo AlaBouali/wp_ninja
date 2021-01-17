@@ -52,6 +52,8 @@ args=sys.argv
 if len(args)<=2:
     print(msg)
     sys.exit()
+    
+
 
 domain=''
 url=''
@@ -111,6 +113,16 @@ while(i<(len(args))):
         xmlrcp_path=int(args[i+1])
         i+=1
     i+=1
+
+
+print('[~] Testing connection to the target...')
+try:
+ requests.get(url)
+ print('[+] Connection established')
+except Exception as ex:
+ print("[-] {}".format(ex))
+ sys.exit()
+
 
 #get the domain 
 
