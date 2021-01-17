@@ -18,7 +18,7 @@ This a simple tool to fully scan your WordPress site (themes, plugins, configura
 
 <div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">pip install -r requirements.txt
 </pre></div>
-<br>If you are on linux run it as root:
+<br>If you are on linux run it as root (to automatically install NodeJS):
 <div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">sudo pip install -r requirements.txt
 </pre></div>
 
