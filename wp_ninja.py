@@ -1,4 +1,4 @@
-import bane,sys
+import bane,sys,requests
 
 if  sys.version_info < (3,0):
  from urlparse import urlparse
