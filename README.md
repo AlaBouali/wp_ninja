@@ -2,7 +2,7 @@
 This a simple tool to fully scan your WordPress site (themes, plugins, configurations...).
 # What benefits do I can get by using it?
 <ul>
-  <li>Full Plugins and Themes scan which prides you with links to potential vulnerabilities in it (from <a href="https://wpscan.com/">WPScan</a>.</li>
+  <li>Full Plugins and Themes scan which prides you with links to potential vulnerabilities in it (from <a href="https://wpscan.com/">WPScan</a>).</li>
   <li>Full xmlrpc exploits check.</li>
   <li>Users enumeration.</li>
   <li>Users extraction from REST-API.</li>
