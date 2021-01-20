@@ -1,2 +1,2 @@
-bane>=4.4.3
+bane>=4.4.4
 requests
